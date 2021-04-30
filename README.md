@@ -2,10 +2,10 @@
 ![Profile Views](https://gpvc.arturio.dev/sajibAdhi)
 ![image](https://img.shields.io/github/followers/sajibAdhi?label=follow&style=social)
     
-Hi there, I'm **Sajib Adhikary**, **Software Engineer** and a **Web Developer** 🚀 from Bangladesh 🇧🇩.
+Hi there, I'm **Sajib Adhikary**, **Web Developer** and a **Programmer** 🚀 from Bangladesh 🇧🇩.
 
 ### Talking about Personal Stuffs:
-  - 🔭 I’m currently working as Professional Software Engineer @ADOVASOFT
+  - 🔭 I’m currently working as Professional Programmer @ADOVASOFT
   - 🌱 I’m currently learning **Software Architecture** and **Software Service Oriented Design**
   - 📫 You can reach me at <a href="mailto:tosajibadhi@gmail.com">tosajibadhi@gmail.com</a>
 <p align="left"> 
