@@ -1,21 +1,18 @@
-### Hi there 👋 , I'm Sajib Adhikary!
+### Hi there, I'm Sajib Adhikary!
 ![Profile Views](https://gpvc.arturio.dev/sajibAdhi)
 ![image](https://img.shields.io/github/followers/sajibAdhi?label=follow&style=social)
     
-Hi there, I'm **Sajib Adhikary**, **Web Developer** and a **Programmer** 🚀 from Bangladesh 🇧🇩.
+Hi there, I'm **Sajib Adhikary**, **Web Developer** and a **Programmer** from Bangladesh.
 
 ### Talking about Personal Stuffs:
-  - 🔭 I’m currently working as Professional Programmer @ADOVASOFT
-  - 🌱 I’m currently learning **Software Architecture** and **Software Service Oriented Design**
-  - 📫 You can reach me at <a href="mailto:tosajibadhi@gmail.com">tosajibadhi@gmail.com</a>
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sajibAdhi" alt="sajibAdhi" /></a> 
-</p>
+  - I’m currently working as Professional Web Developer @ADOVASOFT
+  - Excited to create open-source projects.
+  - I’m currently learning **Software Engineering** and **Software Service Oriented Design**
+  - You can reach me at <a href="mailto:tosajibadhi@gmail.com">tosajibadhi@gmail.com</a>
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sajibAdhi&show_icons=true&count_private=true" height=178 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibAdhi&layout=compact" height=178 />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=sajibAdhi&layout=compact" height=178 />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibAdhi&layout=compact" height="178" alt="Sajib Adhikary Contributions" />
 </p>
 
