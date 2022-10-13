@@ -15,11 +15,6 @@ Hi there, I'm **Sajib Adhikary**, **Web Developer** and a **Programmer** from Ba
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibAdhi&layout=compact" height=178 />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibAdhi&layout=compact" height="178" alt="Sajib Adhikary Contributions" />
 </p>
-<p>
-
-[![Sajib Adhikarys's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&custom_title=Sajib%20Adhikary's%20Activity%20Graph&hide_border=true&bg_color=ffffff)](#)
-
-</p>
 
 ### Let's connect!
 <p>
