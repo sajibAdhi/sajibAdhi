@@ -1,6 +1,7 @@
 ### Hi there, I'm Sajib Adhikary!
 [![Profile Views](https://gpvc.arturio.dev/sajibAdhi)](#)
-[![image](https://img.shields.io/github/followers/sajibAdhi?label=followers&style=social)](#)
+[![Followers](https://img.shields.io/github/followers/sajibAdhi?label=followers&style=social)](#)
+[![wakatime](https://wakatime.com/badge/user/eb4a2b8a-5057-4204-aea3-7efc263f563b.svg)](https://wakatime.com/@eb4a2b8a-5057-4204-aea3-7efc263f563b)
     
 Hi there, I'm **Sajib Adhikary**, **Web Developer** and a **Programmer** from Bangladesh.
 
