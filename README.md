@@ -3,7 +3,7 @@
 [![Followers](https://img.shields.io/github/followers/sajibAdhi?label=followers&style=social)](#)
 [![wakatime](https://wakatime.com/badge/user/eb4a2b8a-5057-4204-aea3-7efc263f563b.svg)](https://wakatime.com/@eb4a2b8a-5057-4204-aea3-7efc263f563b)
     
-Hi there, I'm **Sajib Adhikary**, **Web Developer** and a **Programmer** from Bangladesh.
+Hi there, I'm **Sajib Adhikary**, **Software Engineer** from Bangladesh.
 
 <!-- Holopin Board -->
 [![@sajibadhi's Holopin board](https://holopin.me/sajibadhi)](https://holopin.io/@sajibadhi)
