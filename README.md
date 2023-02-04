@@ -1,5 +1,5 @@
 ### Hi there, I'm Sajib Adhikary!
-[![Profile Views](https://gpvc.arturio.dev/sajibAdhi)](#)
+[![Visitors](https://gpvc.arturio.dev/sajibAdhi)](#)
 [![Followers](https://img.shields.io/github/followers/sajibAdhi?label=followers&style=social)](#)
 [![wakatime](https://wakatime.com/badge/user/eb4a2b8a-5057-4204-aea3-7efc263f563b.svg)](https://wakatime.com/@eb4a2b8a-5057-4204-aea3-7efc263f563b)
     
