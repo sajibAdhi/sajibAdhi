@@ -10,19 +10,20 @@
 [![@sajibadhi's Holopin board](https://holopin.me/sajibadhi)](https://holopin.io/@sajibadhi)
 
 ### Talking about Personal Stuffs:
-  - I’m currently working as Professional Web Developer @ADOVASOFT
+  - I’m currently working as Professional Software Engineer @ADOVASOFT
+  - A active contributor to open-source projects **cncf/glossary** and **kubernetes/website**.
   - Excited to create open-source projects.
-  - I’m currently learning **Software Engineering** and **Software Service Oriented Design**
+  - I’m currently learning **Docker**, **Kubernetes** and **Generative AI**.
   - You can reach me at <a href="mailto:tosajibadhi@gmail.com">tosajibadhi@gmail.com</a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=sajibAdhi&show_icons=true&count_private=true" height="178" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibAdhi&layout=compact" height="178" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sajibAdhi&layout=compact" height="178" alt="Sajib Adhikary Contributions" /> 
 </div>
+
+<!-- Technology Section  -->
 
 | Section | Technology |
 |---------|------------|
